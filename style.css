@@ -1,0 +1,45 @@
+body
+{
+    
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    top: 15%;
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+h1
+{
+    font: 500 4.5em 'raleway', fantasy, sans-serif;
+    font-family: Impact, fantasy;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: capitalize;
+    letter-spacing: .5em;
+    width: 100%;
+    
+}
+
+h2
+
+{
+    font: 500 1.5em 'raleway', fantasy, sans-serif;
+    font-family: Impact, fantasy;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: capitalize;
+    letter-spacing: .5em;
+    width: 100%;
+    
+}
+
+
+h3
+{
+    font: 900 1em sans-serif;
+    font-family: Impact, fantasy;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    letter-spacing: .5em;
+    width: 100%;
+    
+}
